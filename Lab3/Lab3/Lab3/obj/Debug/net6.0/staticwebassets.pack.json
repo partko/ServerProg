@@ -1,0 +1,729 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\logo-politic.png",
+      "PackagePath": "staticwebassets\\images\\logo-politic.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\logos\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-2.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logos\\logo.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\phonebg.png",
+      "PackagePath": "staticwebassets\\images\\phonebg.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\all.js",
+      "PackagePath": "staticwebassets\\js\\all.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\hoverdir.js",
+      "PackagePath": "staticwebassets\\js\\hoverdir.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\portfolio.js",
+      "PackagePath": "staticwebassets\\js\\portfolio.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\about_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\about_01.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\about_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\about_02.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\device_03.png",
+      "PackagePath": "staticwebassets\\uploads\\device_03.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\features_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_01.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\features_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_02.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\features_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_03.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\inner-bg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inner-bg.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\ipad.png",
+      "PackagePath": "staticwebassets\\uploads\\ipad.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_01.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_01.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_02.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_02.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_03.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_03.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_04.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_04.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_05.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_05.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\logo_06.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_06.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\parallax_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\parallax_03.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\parallax_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\parallax_04.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\parallax_05.png",
+      "PackagePath": "staticwebassets\\uploads\\parallax_05.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_01.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_02.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_03.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_04.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_05.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_05.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_06.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_06.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_07.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_07.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_08.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_09.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_09.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\portfolio_10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_10.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\service_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_01.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\service_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_02.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\service_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_03.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\service_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_04.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\slider_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_01.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\slider_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_02.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\slider_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_03.jpg"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\testi_01.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_01.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\testi_02.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_02.png"
+    },
+    {
+      "Id": "D:\\ServerProg\\Lab3\\Lab3\\Lab3\\wwwroot\\uploads\\testi_03.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_03.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Lab3.props",
+      "PackagePath": "build\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab3.props",
+      "PackagePath": "buildMultiTargeting\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Lab3.props",
+      "PackagePath": "buildTransitive\\Lab3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab4
+build_property.RootNamespace = Lab4
+build_property.ProjectDir = D:\ServerProg\Lab4\Lab4\Lab4\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ServerProg\Lab4\Lab4\Lab4
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/about-us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWJvdXQtdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZmVhdHVyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccG9ydGZvbGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdGltb25pYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ServerProg/Lab4/Lab4/Lab4/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q5iixq0evp

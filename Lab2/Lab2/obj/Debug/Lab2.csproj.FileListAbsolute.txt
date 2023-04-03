@@ -1,0 +1,8 @@
+D:\ServerProg\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\ServerProg\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\ServerProg\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\ServerProg\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\ServerProg\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\ServerProg\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\ServerProg\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\ServerProg\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache

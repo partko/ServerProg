@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "index": {
+      "title": "home"
+    },
+    "testimonials": {
+      "title": "testimonials"
+    },
+    "about-us": {
+      "title": "about-us"
+    },
+    "contact": {
+      "title": "contact"
+    },
+    "portfolio": {
+      "title": "portfolio"
+    },
+    "features": {
+      "title": "features",
+      "desc-title": "Features & Overviews",
+      "desc-text1": "Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,",
+      "desc-text2": "lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!",
+      "pic": "uploads/ipad.png",
+      "items": [
+        {
+          "img-src": "uploads/features_01.jpg",
+          "h": "Outstanding Landing Pages",
+          "text": "Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque."
+        },
+        {
+          "img-src": "uploads/features_02.jpg",
+          "h": "Beautiful SVG Font Icons",
+          "text": "Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor."
+        },
+        {
+          "img-src": "uploads/features_03.jpg",
+          "h": "Build a Site In Few Minutes",
+          "text": "Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "pricing"
+    },
+    "services": {
+      "title": "services"
+    }
+  }
+}
+
