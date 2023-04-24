@@ -1,0 +1,130 @@
+﻿@page
+@model Lab4.Pages.featuresModel
+@using System.Text.Json.Nodes
+@{
+    ViewData["Title"] = "Features page";
+    ViewData["index-class"] = "";
+    ViewData["about-class"] = "";
+    ViewData["service-class"] = "";
+    ViewData["partfolio-class"] = "";
+    ViewData["features-class"] = "active";
+    ViewData["testimonials-class"] = "";
+    ViewData["pricing-class"] = "";
+    ViewData["contact-class"] = "";
+
+    JsonNode f = Model.features;
+}
+
+<div class="banner-area banner-bg-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="banner">
+                    <h2>Features</h2>
+                    <ul class="page-title-link">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Features</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="features" class="section wb">
+    <div class="container">
+        <div class="section-title text-center">
+            <h3>@f["desc-title"]</h3>
+            <p class="lead">@f["desc-text1"] <br> @f["desc-text2"]</p>
+        </div><!-- end title -->
+
+        <div class="row">
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <ul class="features-left">
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
+                        <i class="flaticon-wordpress-logo"></i>
+                        <div class="fl-inner">
+                            <h4>WordPress Installation</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <i class="flaticon-windows"></i>
+                        <div class="fl-inner">
+                            <h4>Browser Compatible</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s">
+                        <i class="flaticon-price-tag"></i>
+                        <div class="fl-inner">
+                            <h4>eCommerce Ready</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <i class="flaticon-new-file"></i>
+                        <div class="fl-inner">
+                            <h4>Easy to Customize</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 hidden-xs hidden-sm">
+                <img src="@f["pic"]" class="img-center img-responsive" alt="">
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <ul class="features-right">
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
+                        <i class="flaticon-pantone"></i>
+                        <div class="fr-inner">
+                            <h4>Limitless Colors</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
+                        <i class="flaticon-cloud-computing"></i>
+                        <div class="fr-inner">
+                            <h4>Lifetime Update</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s">
+                        <i class="flaticon-line-graph"></i>
+                        <div class="fr-inner">
+                            <h4>SEO Friendly</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <i class="flaticon-coding"></i>
+                        <div class="fr-inner">
+                            <h4>Simple Clean Code</h4>
+                            <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
+                        </div>
+                    </li>
+                </ul>
+            </div><!-- end col -->
+        </div><!-- end row -->
+
+        <hr class="hr1">        <div class="row text-center">
+        @foreach(var item in f["items"]?.AsArray())
+        {
+
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="service-widget">
+                    <div class="post-media wow fadeIn">
+                        <a href="uploads/features_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="@item?["img-src"]" alt="" class="img-responsive img-rounded">
+                    </div>
+                    <h3>@item?["h"]</h3>
+                    <p>@item?["text"]</p>
+                </div><!-- end service -->
+            </div><!-- end col -->
+         }
+
+
+        </div><!-- end row -->
+    </div><!-- end container -->
+</div><!-- end section -->

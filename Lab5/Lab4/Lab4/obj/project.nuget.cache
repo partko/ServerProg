@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbw5dwsKYX4O4tNGy8+FsU+Ktdzkuw0QWqg1zO1saf2AYEhNXVEs5a0ER4hy99PGL/VkW+w+O6ScI1jgvILnSw==",
+  "success": true,
+  "projectFilePath": "D:\\ServerProg\\Lab5\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gribo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
